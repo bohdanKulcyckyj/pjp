@@ -1,0 +1,1 @@
+export type ExpressionResultType = number | 'ERROR'
